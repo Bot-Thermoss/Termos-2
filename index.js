@@ -145,6 +145,12 @@ conn.sendMessage(id, 'Owner Daniel : wa.me/+628561319757' ,MessageType.text);
 else if (text == 'bot'){
 conn.sendMessage(id, 'NAPA MANGGIL-MANGGIL KEK GAK ADA KERJAAN !' ,MessageType.text);
 }
+else if (text == 'Bot'){
+conn.sendMessage(id, 'Jomblo ya? Ketik #help untuk melihat fitur !' ,MessageType.text);
+}
+else if (text == 'Kontol'){
+conn.sendMessage(id, 'Kontal kontol kontal kontol lo lebih kontol !' ,MessageType.text);
+}
 else if (text == 'Ngentod'){
 conn.sendMessage(id, 'Pengin ngentod?' ,MessageType.text);
 }
